@@ -1,0 +1,10 @@
+C:\Users\juan.padilla\Desktop\PruebaCruud\Cruud\Cruud\bin\Debug\Cruud.exe.config
+C:\Users\juan.padilla\Desktop\PruebaCruud\Cruud\Cruud\obj\Debug\Cruud.csprojResolveAssemblyReference.cache
+C:\Users\juan.padilla\Desktop\PruebaCruud\Cruud\Cruud\obj\Debug\Cruud.Form1.resources
+C:\Users\juan.padilla\Desktop\PruebaCruud\Cruud\Cruud\obj\Debug\Cruud.Properties.Resources.resources
+C:\Users\juan.padilla\Desktop\PruebaCruud\Cruud\Cruud\obj\Debug\Cruud.csproj.GenerateResource.Cache
+C:\Users\juan.padilla\Desktop\PruebaCruud\Cruud\Cruud\bin\Debug\Cruud.exe
+C:\Users\juan.padilla\Desktop\PruebaCruud\Cruud\Cruud\bin\Debug\Cruud.pdb
+C:\Users\juan.padilla\Desktop\PruebaCruud\Cruud\Cruud\obj\Debug\Cruud.exe
+C:\Users\juan.padilla\Desktop\PruebaCruud\Cruud\Cruud\obj\Debug\Cruud.pdb
+C:\Users\juan.padilla\Desktop\PruebaCruud\Cruud\Cruud\obj\Debug\Cruud.Consulta.resources
